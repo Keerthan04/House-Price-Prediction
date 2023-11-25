@@ -17,11 +17,7 @@ The machine learning model is based on the RandomForestRegressor algorithm from 
 ## Performance
 The model's performance is evaluated using metrics such as Mean Absolute Error (MAE) to assess the average difference between predicted and actual house prices. The current MAE achieved by the model stands at approximately [insert current MAE here].
 
-## Usage
-To use this model:
-- Clone the repository.
-- Install the required dependencies specified in `requirements.txt`.
-- Run the provided Jupyter Notebook or Python script to train the model on your dataset or make predictions.
+
 
 ## Future Improvements
 The model's performance can be further enhanced through:
